@@ -1,0 +1,8 @@
+{
+  "name": "Test Collector",
+  "email": "test@example.com",
+  "phone": "1234567890",
+  "password": "password123",
+  "city": "Test City",
+  "driverLicense": "DL123456"
+}
